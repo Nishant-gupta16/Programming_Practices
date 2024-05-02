@@ -1,4 +1,4 @@
-public class Assignment2{
+public class program2{
 
     private static int x = 1; // Class variable accessible in whole class
 
